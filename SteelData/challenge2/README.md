@@ -5,6 +5,9 @@ type VARCHAR(50),
 style VARCHAR(50),
 cost_$ INT
 );
+
+![image](https://github.com/mon2learner/SQL_PROJECTS/assets/135308137/ff1b5312-fbdf-4391-8720-ef810691e50a)
+
 --------------------
 INSERT INTO cars (car_id, make, type, style, cost_$)
 VALUES (1, 'Honda', 'Civic', 'Sedan', 30000),
